@@ -14,9 +14,8 @@
                         "Android": false,
                         "iOS": false
                     },
-                    "ReleaseStatus": "plivate"
+                    "ReleaseStatus": "private"
                 }
-
             ]
         }
     ]
