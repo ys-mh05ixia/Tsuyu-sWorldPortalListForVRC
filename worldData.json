@@ -1,0 +1,24 @@
+{
+    "Categorys": [
+        {
+            "Category": "test",
+            "Worlds": [
+                {
+                    {
+                        "ID": "wrld_33d068b3-d4fc-4f9f-97c7-c50acc86bfab",
+                        "Name": "Mystic Forest",
+                        "RecommendedCapacity": 16,
+                        "Capacity": 32,
+                        "Description": "",
+                        "Platform": {
+                            "PC": true,
+                            "Android": false,
+                            "iOS": false
+                        },
+                        "ReleaseStatus": "plivate"
+                    },
+                }
+            ]
+        },
+    ]
+}
